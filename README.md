@@ -3,6 +3,10 @@
 
 ---
 
+**PCB in production live tests soon...**
+
+---
+
 ## 📘 Overview
 **PCB_BLE_Speaker** is a compact **BLE audio speaker board** designed in **KiCad 9**, focused on learning about **USB-C**, **battery-powered systems**, **rechargeable devices**, and **audio amplifier integration**.  
 The project explores practical design decisions such as **battery connectors**, **charging circuits**, **power protection**, and **audio MCU layout constraints**.
