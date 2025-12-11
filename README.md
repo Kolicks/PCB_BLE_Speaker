@@ -21,6 +21,13 @@ It includes two **MAX98357A** audio MCUs to experiment with both **mono** and **
 
 ---
 
+
+## ⚠️ FLAWS
+- Serial Comms does not work, need extra circuitry for EN/BOOT between ESP32 and CP2102N.
+- Be aware of the Audio connectors polarity. In this design you may need to solder on the opposite direction.
+
+---
+
 ## ⚙️ General Information
 - Designed in **KiCad 9** as a learning platform for:
   - USB-C 2.0 (5 V / 1 A)
