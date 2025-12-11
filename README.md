@@ -118,7 +118,9 @@ You may use, modify, and redistribute the design, as long as:
 - **Battery Protection**
   - Add optional **NTC thermistor** for thermal monitoring.  
 - **Usability**
-  - Improve connector positioning and silkscreen clarity.  
+  - Improve connector positioning and silkscreen clarity.
+  - Add circuitry for Serial to make it reliable.
+  - Change MCU to another one more suitable for Hand Soldering.
 
 ---
 
