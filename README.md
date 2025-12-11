@@ -71,7 +71,7 @@ It includes two **MAX98357A** audio MCUs to experiment with both **mono** and **
   - Dedicated copper pours for high-current paths  
   - Additional filtering  
 - Placement of both audio MCUs on the top layer made routing more challenging, but was kept intentionally as a DFM/DFA practice exercise.
-
+- Rechargable Battery circuitry WORKS as expected!
 ---
 
 ## 🧩 Files and Structure
